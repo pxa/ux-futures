@@ -7,7 +7,7 @@ Wed, Nov 5, 2014
 
 Wrubel Lobby  
 Cyberinfrastructure Building  
-2709 E 10th St, Bloomington, IN
+[2709 E 10th St, Bloomington, IN](https://goo.gl/maps/l4E9E)
   
 ## Description
 
