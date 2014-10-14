@@ -81,6 +81,6 @@ If some business or organization you know would like to help sponsor this event,
 
 If there's another way you'd like to sponsor, please suggest so. 
 
-In addition to some time to talk about your business or organization at the start of the conference, the sponsor will be mentioned and linked to on the UX Futures event website, as well as listed on the IxDA Bloomington Meetup sponsors page. 
+In addition to some time to talk about your business or organization at the start of the conference, the sponsor will be mentioned and linked to on the UX Futures event website, as well as listed on the [IxDA Bloomington Meetup sponsors page](http://www.meetup.com/IxDA-Bloomington/sponsors/). 
 
 Contact Chris Basham (csbasham@iu.edu) if you'd like to sponsor any part of this event.
