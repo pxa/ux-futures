@@ -84,3 +84,7 @@ If there's another way you'd like to sponsor, please suggest so.
 In addition to some time to talk about your business or organization at the start of the conference, the sponsor will be mentioned and linked to on the UX Futures event website, as well as listed on the [IxDA Bloomington Meetup sponsors page](http://www.meetup.com/IxDA-Bloomington/sponsors/). 
 
 Contact Chris Basham (csbasham@iu.edu) if you'd like to sponsor any part of this event.
+
+## Questions
+
+If you have a question about the conference, first check the [closed issues](https://github.com/pxa/ux-futures/issues?q=is%3Aissue+is%3Aclosed) to see if the question has already been posted and answered. If not, please [create a new issue](https://github.com/pxa/ux-futures/issues/new) or email Chris Basham (csbasham@iu.edu), and we'll promptly respond.
