@@ -6,7 +6,7 @@ Wed, Nov 5, 2014
 9:30am–5:30pm ET
 
 Wrubel Lobby  
-[Cyberinfrastructure Building](http://it.iu.edu/cib/)
+[Cyberinfrastructure Building](http://it.iu.edu/cib/)  
 [2709 E 10th St, Bloomington, IN](https://goo.gl/maps/l4E9E)
 
 Export this calendar event for [Outlook](http://www.meetup.com/IxDA-Bloomington/events/210477722/ical/UX+Futures+Virtual+Conference/) or [iCal](http://www.meetup.com/IxDA-Bloomington/events/210477722/ical/UX+Futures+Virtual+Conference.ics).
