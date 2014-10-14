@@ -8,7 +8,9 @@ Wed, Nov 5, 2014
 Wrubel Lobby  
 Cyberinfrastructure Building  
 [2709 E 10th St, Bloomington, IN](https://goo.gl/maps/l4E9E)
-  
+
+Export this calendar event for [Outlook](http://www.meetup.com/IxDA-Bloomington/events/210477722/ical/UX+Futures+Virtual+Conference/) or [iCal](http://www.meetup.com/IxDA-Bloomington/events/210477722/ical/UX+Futures+Virtual+Conference.ics).
+
 ## Description
 
 Once in a while, it's good to put down your wireframes and stylesheets, step back, and consider what's next.
@@ -28,8 +30,6 @@ The conference will live stream on a 24 by 18 foot display in the lobby of the [
 ![IQ-Wall in the CIB lobby](https://cloud.githubusercontent.com/assets/347558/4631093/dc89a44a-53b2-11e4-9914-23996577e3c3.jpg)
 
 ## Parking
-
-PARKING
 
 For those with an IU parking pass, there are A, C, and E parking spaces near the north and east side of the building. If possible, carpooling is recommended, as spaces fill quickly in the morning. 
 For those without an IU parking pass, day passes can be provided at the cost of $8, which will allow parking at any A, C, and E parking spaces. Please indicate in the comments if you require a day pass.
