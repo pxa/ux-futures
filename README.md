@@ -3,10 +3,10 @@
 [UX Futures](https://www.eventbrite.com/e/ux-futures-registration-12433112775) is a conference held virtually, and a live stream of this all-day event is available for free, for local design professionals. Even if you can't attend all the sessions, stop by for what you can. 
 
 Wed, Nov 5, 2014  
-9:30am–5:30pm
+9:30am–5:30pm ET
 
 Wrubel Lobby  
-Cyberinfrastructure Building  
+[Cyberinfrastructure Building](http://it.iu.edu/cib/)
 [2709 E 10th St, Bloomington, IN](https://goo.gl/maps/l4E9E)
 
 Export this calendar event for [Outlook](http://www.meetup.com/IxDA-Bloomington/events/210477722/ical/UX+Futures+Virtual+Conference/) or [iCal](http://www.meetup.com/IxDA-Bloomington/events/210477722/ical/UX+Futures+Virtual+Conference.ics).
@@ -25,7 +25,7 @@ Free! The [Process Experience Architecture group](http://pxa.iu.edu), a team of 
 
 ## Location
 
-The conference will live stream on a 24 by 18 foot display in the lobby of the [Cyber Infrastructure Building](http://it.iu.edu/cib/).
+The conference will live stream on a 24 by 18 foot display in the lobby of the Cyberinfrastructure Building.
 
 ![IQ-Wall in the CIB lobby](https://cloud.githubusercontent.com/assets/347558/4631093/dc89a44a-53b2-11e4-9914-23996577e3c3.jpg)
 
