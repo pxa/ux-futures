@@ -64,13 +64,13 @@ For those wanting to carpool, please coordinate in the event comments.
 
 5:30pm: After-conference dinner location TO BE DETERMINED.
 
-## Food & Beverages
+## Food & beverages
 
 Breakfast, lunch, snacks, and beverages will not be provided, but there is a cafe in the lobby that's open 7:30am–3pm. The cafe offers portable and made-to-order breakfast, lunch, and beverages such as Scholars Inn Bakehouse bagels, customized wraps and subs, Campbell's soups, and Starbucks coffees. An easily accessible water fountain is located in the lobby. 
 
 Feel free to also eat out during the lunch hour or order in food.
 
-## Sponsorship Opportunties
+## Sponsorship opportunties
 
 If some business or organization you know would like to help sponsor this event, there are a number of opportunities which could help enhance the conference:
 
