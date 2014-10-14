@@ -68,7 +68,7 @@ For those wanting to carpool, please coordinate in the event comments.
 
 Breakfast, lunch, snacks, and beverages will not be provided, but there is a cafe in the lobby that's open 7:30am–3pm. The cafe offers portable and made-to-order breakfast, lunch, and beverages such as Scholars Inn Bakehouse bagels, customized wraps and subs, Campbell's soups, and Starbucks coffees. An easily accessible water fountain is located in the lobby. 
 
-Feel free to also eat out during the lunch hour or order in food.
+Feel free to also eat out during the lunch hour, order in food, or bring your own lunch.
 
 ## Sponsorship opportunties
 
